@@ -22,24 +22,24 @@ This project aims to support **HELP International**, a humanitarian NGO, in iden
 
 ### METHODOLOGY
 
-- STEP 1: Data Cleaning:
+- **STEP 1:** Data Cleaning:
     - Handle any missing values.
     - Remove duplicate records or irrelevant columns.
     - Check for and correct anomalies.
       
-- STEP 2: Exploratory Data Analysis (EDA):
+- **STEP 2:** Exploratory Data Analysis (EDA):
     - Visualize distributions and relationships between features.
     - Identify patterns, trends, and potential anomalies.
     - Form hypotheses based on data insights.
       
-- STEP 3: Data Preprocessing:
+- **STEP 3:** Data Preprocessing:
     - Scale/normalize numerical features and encode categorical  data.
     - Feature Engineering
       
-- STEP 4: Model Training:
+- **STEP 4:** Model Training:
     - Select and train machine learning models on the data.
     - Elbow Method to find the optimal number of clusters (k).
     - Experiment with different algorithms and assess performance.
       
-- STEP 5: Model Evaluation (Interpreting Results):
+- **STEP 5:** Model Evaluation (Interpreting Results):
     - Visual Inspection: visualize the clustering results or reduced features to evaluate if meaningful patterns emerge.
