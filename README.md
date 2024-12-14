@@ -45,6 +45,10 @@ This project aims to support **HELP International**, a humanitarian NGO, in iden
     - Visual Inspection: visualize the clustering results or reduced features to evaluate if meaningful patterns emerge.
 
 ### LIBRARIES
+- **Pandas:** It offers data structures (like DataFrames) for handling and analyzing structured data, particularly for data manipulation and cleaning.
+- **Matplotlib.pyplot:** A plotting library used for creating static, interactive, and animated visualizations in Python.
+- **NumPy:** It provides support for large, multi-dimensional arrays and matrices, along with mathematical functions to operate on these arrays.
+- **Seaborn:** Built on top of Matplotlib, Seaborn simplifies the creation of informative and attractive statistical graphics.
 
 ### EXPECTED OUTCOME
 
