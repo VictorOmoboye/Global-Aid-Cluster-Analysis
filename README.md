@@ -12,3 +12,12 @@ This project aims to support **HELP International**, a humanitarian NGO, in iden
 - A need exists to analyze large datasets containing socio-economic and health metrics to inform the distribution of aid effectively.
 - The project must leverage machine learning clustering techniques to group countries by shared vulnerabilities.
 - There is a requirement to explore patterns in the data that can guide actionable decisions to improve health, wealth, and opportunities in marginalized nations.
+
+### AIM OF PROJECT
+- To leverage advanced unsupervised machine learning techniques to cluster countries based on critical socio-economic and health metrics.
+- To identify nations with low GDP, high child mortality, and low life expectancy that are most in need of aid.
+- To provide data-driven insights that prioritize resource allocation for vulnerable populations.
+- To optimize HELP International’s efforts in addressing global issues such as healthcare access, poverty, and gender equality.
+- To ensure efficient and targeted distribution of the $30M donation by focusing on the most at-risk nations.
+
+### METHODOLOGY
