@@ -4,4 +4,5 @@
 
 ### INTRODUCTION
 This project aims to support **HELP International**, a humanitarian NGO, in identifying and prioritizing countries most in need of aid by analyzing socio-economic and health metrics. Using advanced unsupervised machine learning techniques, the project clusters nations based on critical indicators like GDP per capita, child mortality, and life expectancy. By leveraging data-driven insights, it seeks to optimize resource allocation and address pressing global issues such as poverty, healthcare access, and welfare for vulnerable populations.
-![image](https://github.com/user-attachments/assets/595e93ec-a649-4388-90e6-8033ad724fb2)
+![image](https://github.com/user-attachments/assets/1adb2704-9a11-442c-888f-eaa356109424)
+
