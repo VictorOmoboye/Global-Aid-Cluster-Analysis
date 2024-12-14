@@ -50,6 +50,7 @@ This project aims to support **HELP International**, a humanitarian NGO, in iden
 - **NumPy:** It provides support for large, multi-dimensional arrays and matrices, along with mathematical functions to operate on these arrays.
 - **Seaborn:** Built on top of Matplotlib, Seaborn simplifies the creation of informative and attractive statistical graphics.
 
-### EXPECTED OUTCOME
+### Exploratory Data Analysis (EDA)
+#### Numerical Data
 
 # UNDER CONSTRUCTION, IT WILL BE UPDATED SOON...
