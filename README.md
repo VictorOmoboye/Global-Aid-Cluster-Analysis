@@ -69,7 +69,8 @@ After performing feature engineering to group all features into three categories
 I performed the modeling using the K-Means algorithm and applied the Elbow Method to determine the optimal number of clusters (k).
 ![image](https://github.com/user-attachments/assets/fff05acc-ee47-4621-af2d-136d3b1f831a)
 
-
+### Visualisation
+![newplot](https://github.com/user-attachments/assets/a5072ef0-cddc-42f9-a41f-d0a3abbf40af)
 
 
 
