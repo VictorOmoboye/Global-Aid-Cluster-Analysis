@@ -44,6 +44,7 @@ This project aims to support **HELP International**, a humanitarian NGO, in iden
 - **STEP 5:** Model Evaluation (Interpreting Results):
     - Visual Inspection: visualize the clustering results or reduced features to evaluate if meaningful patterns emerge.
 
+
 ### LIBRARIES
 - **Pandas:** It offers data structures (like DataFrames) for handling and analyzing structured data, particularly for data manipulation and cleaning.
 - **Matplotlib.pyplot:** A plotting library used for creating static, interactive, and animated visualizations in Python.
