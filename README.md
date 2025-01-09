@@ -51,7 +51,7 @@ This project aims to support **HELP International**, a humanitarian NGO, in iden
 - **NumPy:** It provides support for large, multi-dimensional arrays and matrices, along with mathematical functions to operate on these arrays.
 - **Seaborn:** Built on top of Matplotlib, Seaborn simplifies the creation of informative and attractive statistical graphics.
 
-### Exploratory Data Analysis (EDA)
+### EXPLORATORY DATA ANALYSIS(EDA)
 #### Numerical Data
 During the exploratory data analysis of the numerical variables, it was observed that most features exhibited significant skewness, either to the left or right. However, the health and import variables stood out as they followed a normal distribution.
 ![image](https://github.com/user-attachments/assets/88ff25f4-84aa-4828-8032-d4a799662cc3)
@@ -73,7 +73,7 @@ Performed the modeling using the K-Means algorithm and applied the Elbow Method 
 Created an interactive GeoMap to visualize the categorization of countries based on their need for foreign aid. The map uses color coding: green represents "Does Not Require Foreign Aid," yellow indicates "Not a Priority," and red highlights "Requires Foreign Aid," aiding in prioritization. The GeoMap reveals that 85% of the countries identified as requiring aid are located in Africa. Additionally, some regions in Europe are categorized as yellow, indicating "Not a Priority," while other areas are marked green, signifying "Does Not Require Foreign Aid."
 ![newplot](https://github.com/user-attachments/assets/a5072ef0-cddc-42f9-a41f-d0a3abbf40af)
 
-### Key Insights
+### KEY INSISGHTS
 - Most features in the dataset are heavily skewed, with Health metrics left-skewed, Trade metrics right-skewed, and Finance metrics following a normal distribution.
 - Strong correlations were observed, such as:
     - Positive correlation between child mortality and total fertility (0.85).
@@ -86,7 +86,7 @@ Created an interactive GeoMap to visualize the categorization of countries based
     - Europe showed minimal priority for aid, with most regions classified as "Not a Priority" or "Does Not Require Aid."
 - Countries requiring aid exhibit low GDP, high child mortality, and low life expectancy, underscoring the need for targeted interventions in these areas.
   
-### Recommendations
+### RECOMENDATION
 - Focus foreign aid efforts primarily on African countries, where 85% of the identified need is concentrated.
 - Prioritize funding and resources for countries with low GDP, high child mortality, and low life expectancy to address critical socio-economic and health challenges.
 - Implement health-focused interventions, including child mortality reduction programs and investments in healthcare infrastructure.
