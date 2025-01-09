@@ -80,3 +80,8 @@ Created an interactive GeoMap to visualize the categorization of countries based
 - Support initiatives to improve trade balance through sustainable exports and reduce reliance on imports in underdeveloped nations.
 - Enhance financial stability by promoting economic growth, stabilizing inflation, and increasing income-generating opportunities for low-income populations.
 - Collaborate with local governments and organizations in priority countries to ensure efficient distribution of resources and sustainable impact.
+
+## THANK YOU
+For more information, you can contact me
+![image](https://github.com/user-attachments/assets/fdd843cb-8293-4cca-93c5-856e33770a9b)
+
