@@ -73,7 +73,7 @@ Performed the modeling using the K-Means algorithm and applied the Elbow Method 
 Created an interactive GeoMap to visualize the categorization of countries based on their need for foreign aid. The map uses color coding: green represents "Does Not Require Foreign Aid," yellow indicates "Not a Priority," and red highlights "Requires Foreign Aid," aiding in prioritization. The GeoMap reveals that 85% of the countries identified as requiring aid are located in Africa. Additionally, some regions in Europe are categorized as yellow, indicating "Not a Priority," while other areas are marked green, signifying "Does Not Require Foreign Aid."
 ![newplot](https://github.com/user-attachments/assets/a5072ef0-cddc-42f9-a41f-d0a3abbf40af)
 
-### KEY INSISGHTS
+### KEY INSIGHTS
 - Most features in the dataset are heavily skewed, with Health metrics left-skewed, Trade metrics right-skewed, and Finance metrics following a normal distribution.
 - Strong correlations were observed, such as:
     - Positive correlation between child mortality and total fertility (0.85).
