@@ -55,6 +55,8 @@ This project aims to support **HELP International**, a humanitarian NGO, in iden
 During the exploratory data analysis of the numerical variables, it was observed that most features exhibited significant skewness, either to the left or right. However, the health and import variables stood out as they followed a normal distribution.
 ![image](https://github.com/user-attachments/assets/88ff25f4-84aa-4828-8032-d4a799662cc3)
 
+Analyzing the correlation among numerical variables revealed several notable relationships. There is a strong positive correlation of 0.85 between total fertility and child mortality, as well as 0.74 between imports and exports. Additionally, income and GDP per capita (GDPP) show a strong positive correlation. In contrast, life expectancy exhibits strong negative correlations with child mortality (-0.89) and total fertility (-0.76), highlighting significant inverse relationships.
+![image](https://github.com/user-attachments/assets/8409da0a-de8e-4865-aa6c-24a239c9293a)
 
 
 
