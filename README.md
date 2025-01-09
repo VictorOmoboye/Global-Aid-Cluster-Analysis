@@ -66,10 +66,11 @@ After performing feature engineering to group all features into three categories
 ![image](https://github.com/user-attachments/assets/fcbda8ee-0aa3-4ed3-817d-03c0884951dd)
 
 ### Model Training
-I performed the modeling using the K-Means algorithm and applied the Elbow Method to determine the optimal number of clusters (k).
+Performed the modeling using the K-Means algorithm and applied the Elbow Method to determine the optimal number of clusters (k).
 ![image](https://github.com/user-attachments/assets/fff05acc-ee47-4621-af2d-136d3b1f831a)
 
 ### Visualisation
+Created an interactive GeoMap to visualize the categorization of countries based on their need for foreign aid. The map uses color coding: green represents "Does Not Require Foreign Aid," yellow indicates "Not a Priority," and red highlights "Requires Foreign Aid," aiding in prioritization. The GeoMap reveals that 85% of the countries identified as requiring aid are located in Africa. Additionally, some regions in Europe are categorized as yellow, indicating "Not a Priority," while other areas are marked green, signifying "Does Not Require Foreign Aid."
 ![newplot](https://github.com/user-attachments/assets/a5072ef0-cddc-42f9-a41f-d0a3abbf40af)
 
 
