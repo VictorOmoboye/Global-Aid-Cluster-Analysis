@@ -52,5 +52,30 @@ This project aims to support **HELP International**, a humanitarian NGO, in iden
 
 ### Exploratory Data Analysis (EDA)
 #### Numerical Data
+During the exploratory data analysis of the numerical variables, it was observed that most features exhibited significant skewness, either to the left or right. However, the health and import variables stood out as they followed a normal distribution.
+![image](https://github.com/user-attachments/assets/88ff25f4-84aa-4828-8032-d4a799662cc3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # UNDER CONSTRUCTION, IT WILL BE UPDATED SOON...
