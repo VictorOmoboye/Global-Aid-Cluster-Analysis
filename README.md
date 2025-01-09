@@ -73,6 +73,19 @@ Performed the modeling using the K-Means algorithm and applied the Elbow Method 
 Created an interactive GeoMap to visualize the categorization of countries based on their need for foreign aid. The map uses color coding: green represents "Does Not Require Foreign Aid," yellow indicates "Not a Priority," and red highlights "Requires Foreign Aid," aiding in prioritization. The GeoMap reveals that 85% of the countries identified as requiring aid are located in Africa. Additionally, some regions in Europe are categorized as yellow, indicating "Not a Priority," while other areas are marked green, signifying "Does Not Require Foreign Aid."
 ![newplot](https://github.com/user-attachments/assets/a5072ef0-cddc-42f9-a41f-d0a3abbf40af)
 
+### Key Insights
+- Most features in the dataset are heavily skewed, with Health metrics left-skewed, Trade metrics right-skewed, and Finance metrics following a normal distribution.
+- Strong correlations were observed, such as:
+    - Positive correlation between child mortality and total fertility (0.85).
+    - Positive correlation between imports and exports (0.74).
+    - Negative correlation between life expectancy and child mortality (-0.89).
+- Feature engineering grouped variables into three categories: Health, Trade, and Finance, improving model interpretability.
+- The Elbow Method determined the optimal number of clusters for K-Means modeling.
+- An interactive GeoMap visualized the clustering results:
+    - 85% of countries needing aid are concentrated in Africa.
+    - Europe showed minimal priority for aid, with most regions classified as "Not a Priority" or "Does Not Require Aid."
+- Countries requiring aid exhibit low GDP, high child mortality, and low life expectancy, underscoring the need for targeted interventions in these areas.
+  
 ### Recommendations
 - Focus foreign aid efforts primarily on African countries, where 85% of the identified need is concentrated.
 - Prioritize funding and resources for countries with low GDP, high child mortality, and low life expectancy to address critical socio-economic and health challenges.
