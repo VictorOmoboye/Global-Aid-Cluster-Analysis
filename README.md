@@ -65,6 +65,7 @@ Analyzing the correlation among numerical variables revealed several notable rel
 After performing feature engineering to group all features into three categories—Health, Trade, and Finance—their distributions were analyzed. It was observed that the Health category is left-skewed, the Trade category is right-skewed, and the Finance category follows a normal distribution.
 ![image](https://github.com/user-attachments/assets/fcbda8ee-0aa3-4ed3-817d-03c0884951dd)
 
+### Model Training
 I performed the modeling using the K-Means algorithm and applied the Elbow Method to determine the optimal number of clusters (k).
 ![image](https://github.com/user-attachments/assets/fff05acc-ee47-4621-af2d-136d3b1f831a)
 
