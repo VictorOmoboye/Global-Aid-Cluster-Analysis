@@ -1,6 +1,7 @@
 # GLOBAL AID CLUSTER ANALYSIS
 ## Leveraging Advanced Unsupervised Machine Learning for Data-Driven Clustering to Prioritize Aid for Vulnerable Nations
-![image](https://github.com/user-attachments/assets/4dafcbb9-422e-4e93-bb16-9940412f6830)
+![AI ngo 2](https://github.com/user-attachments/assets/8cdb2a8e-6995-41f6-b76c-b4ab2d3085a8)
+
 
 ### INTRODUCTION
 This project aims to support **HELP International**, a humanitarian NGO, in identifying and prioritizing countries most in need of aid by analyzing socio-economic and health metrics. Using advanced unsupervised machine learning techniques, the project clusters nations based on critical indicators like GDP per capita, child mortality, and life expectancy. By leveraging data-driven insights, it seeks to optimize resource allocation and address pressing global issues such as poverty, healthcare access, and welfare for vulnerable populations.
