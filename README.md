@@ -2,7 +2,7 @@
 ## Leveraging Advanced Unsupervised Machine Learning for Data-Driven Clustering to Prioritize Aid for Vulnerable Nations
 ![AI ngo 2](https://github.com/user-attachments/assets/8cdb2a8e-6995-41f6-b76c-b4ab2d3085a8)
 
-
+***Disclaimer⚠️:** All datasets and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual. All info are dummy and design to demonstrate my capabilities of using Python to build advance unsupervised machine learning*
 ### INTRODUCTION
 This project aims to support **HELP International**, a humanitarian NGO, in identifying and prioritizing countries most in need of aid by analyzing socio-economic and health metrics. Using advanced unsupervised machine learning techniques, the project clusters nations based on critical indicators like GDP per capita, child mortality, and life expectancy. By leveraging data-driven insights, it seeks to optimize resource allocation and address pressing global issues such as poverty, healthcare access, and welfare for vulnerable populations.
 ![image](https://github.com/user-attachments/assets/1adb2704-9a11-442c-888f-eaa356109424)
